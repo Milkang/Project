@@ -1,3 +1,3 @@
-第一次修改
-Git is a version control system.
+第二次修改
+Git is a distributed version contral system
 Git is free software.
